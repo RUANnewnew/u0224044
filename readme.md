@@ -1,6 +1,6 @@
 # 專題名稱-滑鼠賽車王 #
 
-**MarkdownPad** is a full-featured Markdown editor for Windows.
+
 
 ## 組員 ##
 - 0224050 張倪禎
