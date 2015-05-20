@@ -36,5 +36,8 @@
 - debug:5
 - test:5
 - 軟體更新:3
+- 
+
+- Burndown Chart
 
 https://drive.google.com/drive/my-drive
