@@ -39,4 +39,4 @@
 
  ##Burndown Chart##
 
-https://drive.google.com/drive/my-drive
+![default](https://cloud.githubusercontent.com/assets/11185802/7718176/3a72d054-fedf-11e4-9cb4-8c3389812df7.png)
